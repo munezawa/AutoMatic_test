@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">服务启动后打开易班app
+    若配置过其他无障碍服务 模拟滑动操作可能失效 请重新启动宁的手机</string>
+</resources>
